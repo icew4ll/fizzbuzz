@@ -1,0 +1,6 @@
+[package]
+name = "fizz"
+version = "0.1.0"
+authors = ["fishbowl <icew4ll.io>"]
+
+[dependencies]
